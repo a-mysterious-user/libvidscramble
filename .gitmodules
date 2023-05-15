@@ -1,0 +1,27 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "third_party/json"]
+	path = third_party/json
+	url = https://github.com/nlohmann/json
+[submodule "third_party/fmt"]
+	path = third_party/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "third_party/pybind11"]
+	path = third_party/pybind11
+	url = https://github.com/pybind/pybind11
+[submodule "third_party/pybind11_opencv_numpy"]
+	path = third_party/pybind11_opencv_numpy
+	url = https://github.com/edmBernard/pybind11_opencv_numpy.git
+[submodule "third_party/schifra"]
+	path = third_party/schifra
+	url = https://github.com/ArashPartow/schifra
+[submodule "third_party/zstr"]
+	path = third_party/zstr
+	url = https://github.com/mateidavid/zstr
+[submodule "third_party/zlib"]
+	path = third_party/zlib
+	url = https://github.com/madler/zlib
+[submodule "third_party/argparse"]
+	path = third_party/argparse
+	url = https://github.com/p-ranav/argparse
